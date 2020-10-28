@@ -1,0 +1,9 @@
+/input/bengaliai-cv19/*
+!/input/bengaliai-cv19/.gitkeep
+/input/fonts/*
+!/input/fonts/.gitkeep
+/working/font_images/
+.ipynb_checkpoints/
+
+
+
